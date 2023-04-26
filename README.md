@@ -1,6 +1,8 @@
 # RC4_mvn
 Implementação do algoritmo de encriptação RC4 em assembly utilizando o padrão MVN da disciplina PCS3616 (Sistemas de Programação) da Poli-USP.
 
+Co-autor : [Matheus Tavares](https://github.com/skyandee)
+
 ## Algoritmo RC4
   Em criptografia, RC4 é um algoritmo simétrico de encriptação de fluxo. De uma forma geral, o algoritmo consiste em utilizar um array que a cada utilização tem os seus
   valores permutados e misturados com a chave.
